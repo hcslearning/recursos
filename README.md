@@ -12,4 +12,10 @@
 - Heroku
 - Netlify
 - Vercel
-  
+- Digital Ocean
+- Github Pages
+- surge.sh
+- render.com
+
+
+ 
